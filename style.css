@@ -1,0 +1,69 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px ;
+}
+
+h1{
+    font: weight 1000;
+}
+
+.text{
+    color: tomato;
+}
+
+.fs{
+    width: 40%;
+    margin: 3%;
+    padding: 2%;
+    float: left;
+}
+
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(to right, lightsalmon , tomato);
+    padding: 10px 26px;
+    border: 1px solid tomato ;
+    border-radius: 6px;
+    color: white;
+}
+.link2{
+    text-decoration: none;
+    background-image: linear-gradient(to right, lightsalmon , tomato);
+    padding: 13px 20px;
+    border: 1px solid tomato ;
+    border-radius: 6px;
+    color: white;
+    margin: 40px;
+}
+section{
+    overflow: hidden;
+}
+#experience{
+    text-align: center;
+}
+.pd{
+    width: 25%;
+    margin: 3%;
+    padding: 1%;
+    float: left;
+    border-radius: 27px;
+    background-color: white;
+    box-shadow: 5px 5px 40px gray;
+}
+.pd img{
+    width: 100%;
+}
+.project{
+    background-color: whitesmoke;
+}
+section.project{
+    height: 800px;
+}
+.inquary{
+    height: 500px;
+}
+.inquarydiv{
+    background-image: url(images//lastpic.png);
+    background-size: 100%;
+    
+    }
