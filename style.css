@@ -2,22 +2,18 @@ body{
     font-family: 'Open Sans', sans-serif;
     font-size: 20px ;
 }
-
 h1{
     font: weight 1000;
 }
-
 .text{
     color: tomato;
 }
-
 .fs{
     width: 40%;
     margin: 3%;
     padding: 2%;
     float: left;
 }
-
 .link{
     text-decoration: none;
     background-image: linear-gradient(to right, lightsalmon , tomato);
@@ -60,10 +56,29 @@ section.project{
     height: 800px;
 }
 .inquary{
-    height: 500px;
+    background-image: url(Images//lastpic.png);
+    background-size: 800px 150px;
+    background-repeat: no-repeat;
+    height: 300px;
+    background-position-x: center;
+    background-position-y: 60px;
 }
 .inquarydiv{
-    background-image: url(images//lastpic.png);
-    background-size: 100%;
-    
-    }
+    width: 50%;
+    float: left;
+}
+.work{
+    margin-left: 400px;
+    margin-top: 118px;
+    color: white;
+}
+.chat{
+    margin-top: 111px;
+    margin-left: 150px;
+    position: absolute;
+}
+footer{
+    text-align: center;
+    color:rgb(85, 70, 70);
+    font-size: 15px;
+}
